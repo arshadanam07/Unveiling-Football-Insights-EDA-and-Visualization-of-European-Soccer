@@ -1,5 +1,5 @@
 # Unveiling-Football-Insights-EDA-and-Visualization-of-European-Soccer
-This project used Kaggle's "European Soccer Database" *https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset* to extract, analyze, and uncover patterns in 25k+ matches, player attributes, and team details. SQL queries in Python facilitated efficient data extraction and exploratory data analysis, providing valuable insights into European professional football.
+This project used Kaggle's "European Soccer Database" to extract, analyze, and uncover patterns in 25k+ matches, player attributes, and team details. SQL queries in Python facilitated efficient data extraction and exploratory data analysis, providing valuable insights into European professional football.
 
 To achieve this, the project seamlessly integrated SQL queries into a Python notebook, combining the strengths of both technologies. By leveraging SQL's capabilities, the project performed join and aggregation operations, enabling the combination of relevant information from different tables. This facilitated comprehensive analysis and provided a holistic view of the data.
 
